@@ -267,3 +267,48 @@ No crees otro repositorio y NO hagas merge del pull request.
 ## My request:
 Ya revisame, dice que solo habia que modificar el spect, y ejecutar lo del flutter test. Avisame como entrego, que nomas entrgo y subo a mi aula virtual. El flutter test debe funcionar. 
 `````
+
+## 6. Mensaje del usuario
+
+`````text
+# Context from my IDE setup:
+
+## Active file: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+
+## Open tabs:
+- Prueba1_Reservas.md: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+- README.md: divisor_cuenta_web/README.md
+
+## My request:
+A que te refieres con no te permite aprobar la auditoria?  Y lo de los modelos, el profe nos dejo cambiar a ultimo momento a usar el que queramos de el y depues nos dejo usar nuestro propio codex, como valido el dominio y eso del sql, creo un proyecto y te paso el link? 
+`````
+
+## 7. Mensaje del usuario
+
+`````text
+# Context from my IDE setup:
+
+## Active file: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+
+## Open tabs:
+- Prueba1_Reservas.md: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+- README.md: divisor_cuenta_web/README.md
+
+## My request:
+Entonces que hago ahorita? dime rapido
+`````
+
+## 8. Mensaje del usuario
+
+`````text
+# Context from my IDE setup:
+
+## Active file: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+
+## Open tabs:
+- Prueba1_Reservas.md: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+- README.md: divisor_cuenta_web/README.md
+
+## My request:
+Ya pues, haz eso, todo lo que me dices y depues dime paso por paso como subir aqui, pero piensalo rapido
+`````
