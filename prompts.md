@@ -312,3 +312,38 @@ Entonces que hago ahorita? dime rapido
 ## My request:
 Ya pues, haz eso, todo lo que me dices y depues dime paso por paso como subir aqui, pero piensalo rapido
 `````
+
+## 9. Mensaje del usuario
+
+`````text
+# Context from my IDE setup:
+
+## Active file: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+
+## Active selection of the file:
+
+## Entregables
+
+| # | Entregable | Debe cumplir |
+|---|---|---|
+| 1 | `specs/001-reservas-sala/spec.md` | Describe solo el QUÉ: sin widgets, `setState`, paquetes ni carpetas. Tiene **al menos tres escenarios nuevos**, en Dado/Cuando/Entonces, dedicados a la regla de solapamiento: los que consideres necesarios para que la regla no quede ambigua. Los dos escenarios que la spec ya trae no cuentan. Fija un mensaje de rechazo exacto. |
+| 2 | Historial de git | Demuestra este orden: primero la spec, después una prueba que falla, después el código que la hace pasar. Como mínimo, **tres commits separados**: uno con la spec, otro con la prueba en rojo y otro con el código en verde. Puedes hacer más commits, pero esos tres momentos no se mezclan en un mismo commit. Las aserciones de ese commit de la prueba siguen iguales en el commit final. Los mensajes de commit son libres. Un error de compilación no cuenta como falla de la prueba. |
+| 3 | `lib/domain/crear_reserva.dart` y sus pruebas en `test/` | La regla se cumple en todos los casos que la regla implica, no solo en los escenarios que escribiste. El mismo mensaje en la spec, en la prueba y en el código. |
+| 4 | `RESPUESTAS.md`, en la raíz del repositorio (lo creas tú) | Tres secciones con estos títulos exactos: `## Escenarios que elegí y por qué`, `## Riesgo más grave del repositorio`, `## ¿La regla protege la app real?`. Cada afirmación cita la evidencia como `ruta:línea` (por ejemplo, `lib/domain/crear_reserva.dart:12`) y explica qué muestra esa línea. Extensión recomendada: hasta **400 palabras** en total. |
+| 5 | `prompts.md`, en la raíz del repositorio (lo creas tú), y `sesion-<apellido>.zip`, **fuera** del repositorio | En `prompts.md`, los prompts que le diste al agente, en orden, copiados tal cual. El `.zip` tiene los archivos de sesión de Codex de la prueba (ver abajo). **El `.zip` no se sube a GitHub**: solo al aula virtual. |
+## Open tabs:
+- Prueba1_Reservas.md: c:\Users\Admin\Downloads\Prueba1_Reservas.md
+- README.md: divisor_cuenta_web/README.md
+
+## My request:
+Eso de los entregables tambien hiciste esto que dice aqui&#x20;
+**##** **Entregables**
+
+\| # | Entregable | Debe cumplir |
+\|---|---|---|
+\| 1 | \`specs/001-reservas-sala/spec.md\` | Describe solo el QUÉ: sin widgets, \`setState\`, paquetes ni carpetas. Tiene \*\*al menos tres escenarios nuevos\*\*, en Dado/Cuando/Entonces, dedicados a la regla de solapamiento: los que consideres necesarios para que la regla no quede ambigua. Los dos escenarios que la spec ya trae no cuentan. Fija un mensaje de rechazo exacto. |
+\| 2 | Historial de git | Demuestra este orden: primero la spec, después una prueba que falla, después el código que la hace pasar. Como mínimo, \*\*tres commits separados\*\*: uno con la spec, otro con la prueba en rojo y otro con el código en verde. Puedes hacer más commits, pero esos tres momentos no se mezclan en un mismo commit. Las aserciones de ese commit de la prueba siguen iguales en el commit final. Los mensajes de commit son libres. Un error de compilación no cuenta como falla de la prueba. |
+\| 3 | \`lib/domain/crear_reserva.dart\` y sus pruebas en \`test/\` | La regla se cumple en todos los casos que la regla implica, no solo en los escenarios que escribiste. El mismo mensaje en la spec, en la prueba y en el código. |
+\| 4 | \`RESPUESTAS.md\`, en la raíz del repositorio (lo creas tú) | Tres secciones con estos títulos exactos: \`## Escenarios que elegí y por qué\`, \`## Riesgo más grave del repositorio\`, \`## ¿La regla protege la app real?\`. Cada afirmación cita la evidencia como \`ruta:línea\` (por ejemplo, \`lib/domain/crear_reserva.dart:12\`) y explica qué muestra esa línea. Extensión recomendada: hasta \*\*400 palabras\*\* en total. |
+\| 5 | \`prompts.md\`, en la raíz del repositorio (lo creas tú), y \`sesion-\<apellido>.zip\`, \*\*fuera\*\* del repositorio | En \`prompts.md\`, los prompts que le diste al agente, en orden, copiados tal cual. El \`.zip\` tiene los archivos de sesión de Codex de la prueba (ver abajo). \*\*El \`.zip\` no se sube a GitHub\*\*: solo al aula virtual. |Si hiciste? Dime otra vez como subo y que tenga 10/10
+`````
